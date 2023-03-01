@@ -3,13 +3,14 @@ const chalk = require('chalk')
 
 
 global.botname = "Queen Anya" 
-global.botLanguage = "default" // 𝗗𝗲𝗳𝗮𝘂𝗹𝘁 || 𝗘𝗻𝗴𝗹𝗶𝘀𝗵 || 𝗛𝗶𝗻𝗱𝗶 || 𝗔𝗿𝗮𝗯𝗶𝗰 \\
-global.author = "𝙋𝙄𝙆𝘼"  
+global.botLanguage = "default" // 𝗗𝗲𝗳𝗮𝘂𝗹𝘁 || 𝗘𝗻𝗴𝗹𝗶𝘀𝗵 || Urdu \\
+
+global.author = "RANA"  
 global.packname = "𝙌𝙐𝙀𝙀𝙉✯𝘼𝙉𝙔𝘼✯𝘽𝙊𝙏"  
 global.myweb = "https://github.com/PikaBotz" // You can put any link 
-global.waterMark = "×͜× King ✘ Pika™ ✓" // Your own watermark 
-global.headerText = "Anya by Pika" // text for header of menu         
-global.DocumentTitle = "MASTER⚔️PIKA" 
+global.waterMark = "×͜× King ✘ RANA™ ✓" // Your own watermark 
+global.headerText = "Anya by Rana" // text for header of menu         
+global.DocumentTitle = "MASTER⚔️RANA" 
 
 
 global.ownername = "RANA TALHA"   // Owner name //        
